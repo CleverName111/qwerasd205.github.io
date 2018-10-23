@@ -1,7 +1,7 @@
 /*-----*/
 
 :root {
-    --bgrm-popout: rgba(0,0,0,0.8);
+    --bgrm-overlay: rgba(0,0,0,0.5);
 }
 
 /*-----*/
@@ -19,6 +19,8 @@
 .app .markup-2BOw-j code,
 .app .markup-2BOw-j code.inline,
 .app .member-3W1lQa:hover .content-OzHfo4,
+.app .member-3W1lQa.popout-open .content-OzHfo4,
+.app .member-3W1lQa.popout-open:hover .content-OzHfo4
 .app .search .search-bar,
 .app .search-results-wrap .search-result .hit,
 .app .searchAnswer-3Dz2-q,

@@ -1,0 +1,123 @@
+/*-----*/
+
+:root {
+    --bgrm-popout: rgba(0,0,0,0.8);
+}
+
+/*-----*/
+
+.app .search-results-wrap .search-result .hit,
+.da-popouts .messageGroupWrapper-o-Zw7G:hover .actionButtons-1sUUug {
+    box-shadow: none;
+}
+
+.app .autocomplete-1vrmpx,
+.app .content-yTz4x3,
+.app .guildsAdd-21_IdK,
+.app .hasMore-3e72_v button,
+.app .inner-zqa7da,
+.app .markup-2BOw-j code,
+.app .markup-2BOw-j code.inline,
+.app .member-3W1lQa:hover .content-OzHfo4,
+.app .search .search-bar,
+.app .search-results-wrap .search-result .hit,
+.app .searchAnswer-3Dz2-q,
+.app .searchFilter-2ESiM3,
+.app .selectorSelected-1_M1WV,
+.app .wrapper-35wsBm,
+.channel-2QD9_O:hover a,
+.channel-2QD9_O.selected-1HYmZZ a,
+.channelNotices-41mJbj .channelNotice-1-XFjC .message-3SOT5P .btn-11C5_u,
+.channelNotices-41mJbj .channelNotice-1-XFjC.invite-OjTXrW,
+.contentConnectedVoice-qL-YrL:active,
+.contentHoveredText-2D9B-x,
+.contentHoveredVoice-3p_NEO:active,
+.contentSelectedText-3wUhMi,
+.contentSelectedVoice-1WDIBM,
+.contentSelectedVoice-1WDIBM:active,
+.create-guild-container.deprecated .action,
+.create-guild-container.deprecated .create-or-join .form-inner,
+.da-appMount .contextMenu-HLZMGh,
+.da-appMount .item-1Yvehc:hover,
+.da-modal .body-3ND3kc,
+.da-modal .footer-1FPmkC,
+.da-modal .footer-2yfCgX,
+.da-modal .input-2VB9rf,
+.da-modal .modal-3HD5ck,
+.da-modal .quickswitcher-3JagVE,
+.da-modal .topSectionNormal-2-vo2m,
+.da-popouts .body-3iLsc4,
+.da-popouts .container-3ayLPN,
+.da-popouts .footer-1fjuF6,
+.da-popouts .footer-1kmXd4,
+.da-popouts .header-ykumBX,
+.da-popouts .headerNormal-T_seeN,
+.da-popouts .item-1GzJrl:hover,
+.da-popouts .menu-Sp6bN1,
+.da-popouts .messageGroupWrapper-o-Zw7G,
+.da-popouts .messageGroupWrapper-o-Zw7G:hover .actionButtons-1sUUug,
+.da-popouts .messagesPopoutWrap-1MQ1bW,
+.da-popouts .option-96V44q.selected-rZcOL-,
+.da-popouts .quickMessage-1yeL4E,
+.form-deprecated .form-actions,
+.form-deprecated .form-inner,
+.form.deprecated .form-actions,
+.form.deprecated .form-inner,
+.need-help-modal.form.deprecated .footer,
+.search-bar .search-bar-inner {
+    background-color: var(--bgrm-popout);
+}
+
+.app .search-results-wrap .search-result::before,
+.app .search-results-wrap .search-result::after,
+.create-guild-container.deprecated .create-or-join .actions .or,
+.da-popouts .option-96V44q:after {
+    background: none;
+}
+
+#app-mount,
+.app .activityFeed-28jde9,
+.app .applicationStore-1pNvnv,
+.app .chat-3bRxxu form,
+.app .chat-3bRxxu,
+.app .container-2Thooq,
+.app .container-2Thooq,
+.app .content-yTz4x3,
+.app .content-yTz4x3,
+.app .contentRegion-3nDuYy,
+.app .embedInner-1-fpTo,
+.app .guildsWrapper-5TJh6A,
+.app .headerBar-UHpsPw,
+.app .headerBar-UHpsPw,
+.app .layer-3QrUeG,
+.app .layers-3iHuyZ,
+.app .markup-2BOw-j pre,
+.app .members-1998pB,
+.app .members-1998pB,
+.app .messagesWrapper-3lZDfY,
+.app .messagesWrapper-3lZDfY,
+.app .noChannel-Z1DQK7,
+.app .search-results-wrap .channel-separator .channel-name,
+.app .search-results-wrap .search-header,
+.app .search-results-wrap,
+.app .sidebarRegion-VFTUkN,
+.app .standardSidebarView-3F1I7i,
+.app .title-3qD0b-,
+.app .title-3qD0b-,
+.app .typing-2GQL18,
+.app .ui-standard-sidebar-view .content-region,
+.app .ui-standard-sidebar-view .sidebar-region,
+.app .ui-standard-sidebar-view,
+.app .wrapper-29NfPK,
+.app #friends,
+.app,
+.channels-Ie2l6A,
+.container-2lgZY8,
+.container-PNkimc,
+.create-guild-container.deprecated,
+.form-deprecated .btn-default,
+.form.deprecated .btn-default,
+.search-bar,
+.titleBar-AC4pGV {
+    background-color: transparent;
+}

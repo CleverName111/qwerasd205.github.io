@@ -6,6 +6,10 @@
 
 /*-----*/
 
+.da-backdrop[style*='0.85'] {
+    background-color: rgba(0,0,0,0.65) !important;
+}
+
 .app .search-results-wrap .search-result .hit,
 .da-popouts .messageGroupWrapper-o-Zw7G:hover .actionButtons-1sUUug {
     box-shadow: none;
@@ -28,6 +32,14 @@
 .app .searchFilter-2ESiM3,
 .app .selectorSelected-1_M1WV,
 .app .wrapper-35wsBm,
+.bda-dark .emoji-picker .category,
+.bda-dark .emojiPicker-3m1S-j .category-2U57w6,
+.bda-dark .emojiPicker-3m1S-j,
+.bda-dark #bda-qem button.active,
+.bda-dark #bda-qem button:hover,
+.bda-dark #bda-qem-favourite-container,
+.bda-dark #bda-qem-twitch-container,
+.bda-dark #bda-qem,
 .channel-2QD9_O:hover a,
 .channel-2QD9_O.selected-1HYmZZ a,
 .channelNotices-41mJbj .channelNotice-1-XFjC .message-3SOT5P .btn-11C5_u,
@@ -52,10 +64,9 @@
 .da-modal .quickswitcher-3JagVE,
 .da-modal .topSectionNormal-2-vo2m,
 .da-popouts .body-3iLsc4,
-.da-popouts .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled:hover,
-.da-popouts .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled,
-.da-popouts .calendarPicker-2yf6Ci .react-datepicker__day--disabled,
 .da-popouts .calendarPicker-2yf6Ci .react-datepicker__day--outside-month,
+.da-popouts .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled,
+.da-popouts .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled:hover,
 .da-popouts .container-3ayLPN,
 .da-popouts .focused-2bY0OD,
 .da-popouts .footer-1fjuF6,
@@ -71,10 +82,9 @@
 .da-popouts .quickMessage-1yeL4E,
 .form-deprecated .form-actions,
 .form-deprecated .form-inner,
-.form.deprecated .form-actions,
-.form.deprecated .form-inner,
 .need-help-modal.form.deprecated .footer,
-.search-bar .search-bar-inner {
+.search-bar .search-bar-inner,
+.search-bar.search-bar-light .search-bar-inner {
     background-color: var(--bgrm-overlay);
 }
 
@@ -85,25 +95,19 @@
     background: none;
 }
 
-#app-mount,
 .app .activityFeed-28jde9,
 .app .applicationStore-1pNvnv,
 .app .chat-3bRxxu form,
 .app .chat-3bRxxu,
 .app .container-2Thooq,
-.app .container-2Thooq,
-.app .content-yTz4x3,
 .app .content-yTz4x3,
 .app .contentRegion-3nDuYy,
 .app .guildsWrapper-5TJh6A,
-.app .headerBar-UHpsPw,
 .app .headerBar-UHpsPw,
 .app .layer-3QrUeG,
 .app .layers-3iHuyZ,
 .app .markup-2BOw-j pre,
 .app .members-1998pB,
-.app .members-1998pB,
-.app .messagesWrapper-3lZDfY,
 .app .messagesWrapper-3lZDfY,
 .app .noChannel-Z1DQK7,
 .app .search-results-wrap .channel-separator .channel-name,
@@ -112,7 +116,6 @@
 .app .sidebarRegion-VFTUkN,
 .app .standardSidebarView-3F1I7i,
 .app .title-3qD0b-,
-.app .title-3qD0b-,
 .app .typing-2GQL18,
 .app .ui-standard-sidebar-view .content-region,
 .app .ui-standard-sidebar-view .sidebar-region,
@@ -120,15 +123,23 @@
 .app .wrapper-29NfPK,
 .app #friends,
 .app,
+.bda-dark .emojiPicker-3m1S-j .header-1nkwgG .search-bar,
+.bda-dark #bda-qem button,
 .channels-Ie2l6A,
 .container-2lgZY8,
 .container-PNkimc,
 .create-guild-container.deprecated,
 .da-popouts .calendarPicker-2yf6Ci .react-datepicker__header,
 .da-popouts .calendarPicker-2yf6Ci .react-datepicker,
+.emojiPicker-3m1S-j .stickyHeader-1SS0JU,
 .form-deprecated .btn-default,
 .form.deprecated .btn-default,
+.gameLibrary-TTDw4Y,
+.option-96V44q:after,
 .search-bar,
-.titleBar-AC4pGV {
+.titleBar-AC4pGV,
+.video-1FfuMD,
+#app-mount,
+#friends .friends-table .friend-table-add-wrapper .friend-table-add-header {
     background-color: transparent;
 }

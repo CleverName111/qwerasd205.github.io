@@ -67,7 +67,7 @@
 .form.deprecated .form-inner,
 .need-help-modal.form.deprecated .footer,
 .search-bar .search-bar-inner {
-    background-color: var(--bgrm-popout);
+    background-color: var(--bgrm-overlay);
 }
 
 .app .search-results-wrap .search-result::before,

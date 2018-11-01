@@ -1,4 +1,4 @@
-//META{"name":"BGRM Example","description":"An example of what a very basic transparent theme using bgrm.css looks like.","author":"Qwerasd","version":"0.1"}*//{}
+//META{"name":"Thanksgiving Theme","description":"An example of what a very basic transparent theme using bgrm.css looks like.","author":"Qwerasd","version":"0.1"}*//{}
 
 @import url('https://qwerasd205.github.io/bgrm.css');
 
@@ -7,7 +7,7 @@
 }
 
 #app-mount {
-    background: url('https://i.imgur.com/7SrF82H.png') center/cover; /* Set background image */
+    background: url('https://i.imgur.com/WUPZiin.jpg') center/cover; /* Set background image */
 }
 
 .app {
